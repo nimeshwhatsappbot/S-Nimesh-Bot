@@ -10,7 +10,9 @@
  **/
 
 const { addnote,cmd, sck1, delnote, allnotes, delallnote, tlang, botpic, runtime, prefix, Config } = require('../lib')
-    //---------------------------------------------------------------------------
+//---------------------------------------------------------------------------
+//                  ADDNOTE  COMMAND
+//---------------------------------------------------------------------------
 cmd({
             pattern: "addnote",
             category: "owner",
@@ -26,7 +28,9 @@ cmd({
         }
     )
  
-    //---------------------------------------------------------------------------
+ //---------------------------------------------------------------------------
+//                 BOT QR COMMANDS
+//---------------------------------------------------------------------------
 cmd({
             pattern: "qr",
             category: "owner",
@@ -49,33 +53,21 @@ cmd({
             let buttonMessaged = {
                 image: { url: 'https://secktorbot.onrender.com/' },
                 caption: `*_Scan Qr within 15 seconds_*\nYou'll get session id in your log number.`,
-                footer: ` Session`,
+                footer: ` Session bY >> sᴜʜᴀɪʟ ᴛᴇᴄʜ ɪɴғᴏ \n www.youtube.com/c/SuhailTechInfo"`,
                 headerType: 4,
-                buttons: generatebutton,
-                contextInfo: {
-                    externalAdReply: {
-                        title: 'Secktor Session',
-                        body: 'Get you Session ID',
-                        thumbnail: log0,
-                        mediaType: 2,
-                        mediaUrl: ``,
-                        sourceUrl: ``,
-                    },
-
-                },
-
-            };
-            await Void.sendMessage(citel.chat, buttonMessaged, {
-                quoted: citel,
-
-            });
+                buttons: generatebutton  };
+ 
+            await Void.sendMessage(citel.chat, buttonMessaged, {   quoted: citel, });
+ 
             await sleep(20 * 1000)
             return citel.reply('Your session is over now.')
 
 
         }
     )
-    //---------------------------------------------------------------------------
+//---------------------------------------------------------------------------
+//                  UNBAN CHAT COMMANDS
+//---------------------------------------------------------------------------
 cmd({
             pattern: "unban",
             category: "misc",
@@ -83,10 +75,10 @@ cmd({
             desc: "Unbans banned user (from using bot)."
         },
         async(Void, citel, text,{ isCreator }) => {
-            if (!isCreator) return citel.reply("This command is onlt for my Owner")
+            if (!isCreator) return citel.reply("This command is only for my Owner")
             try {
                 let users = citel.mentionedJid ? citel.mentionedJid[0] : citel.msg.contextInfo.participant || false;
-                if (!users) return citel.reply("Please mention any user.❌")
+                if (!users) return citel.reply("Please mention any user.")
                 let pushnamer = Void.getName(users);
                 sck1.findOne({ id: users }).then(async(usr) => {
                     if (!usr) {
@@ -100,13 +92,15 @@ cmd({
                     }
                 })
             } catch {
-                return citel.reply("Please mention any user.❌")
+                return citel.reply("Please mention any user.")
             }
 
 
         }
     )
-    //---------------------------------------------------------------------------
+//---------------------------------------------------------------------------
+//                  URL FOR MEDIA  COMMANDS
+//---------------------------------------------------------------------------
 cmd({
             pattern: "url",
             category: "misc",
@@ -120,7 +114,8 @@ cmd({
             if (/image/.test(mime)) {
                 let anu = await TelegraPh(media);
                 return citel.reply(`Here is url of your uploaded Media on Telegraph.\n\n` + util.format(anu));
-            } else if (!/image/.test(mime)) {
+            } 
+           else {//if (!/image/.test(mime)) {
                 let anu = await TelegraPh(media);
                 await fs.unlinkSync(media);
                 return citel.reply(`Here is url of your uploaded Media on Telegraph.\n\n` + util.format(anu));
@@ -128,7 +123,9 @@ cmd({
             await fs.unlinkSync(media);
         }
     )
-    //---------------------------------------------------------------------------
+//---------------------------------------------------------------------------
+//                  TRANSLATE TEXT  COMMANDS
+//---------------------------------------------------------------------------
 cmd({
             pattern: "trt",
             category: "misc",
@@ -248,7 +245,9 @@ cmd({
 
         }
     )
-    //---------------------------------------------------------------------------
+   //---------------------------------------------------------------------------
+//                  ALIVE MSG COMMANDS
+//---------------------------------------------------------------------------
 cmd({
             pattern: "alive",
             category: "general",
@@ -256,7 +255,7 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by SamPandey001.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by SuhailTechInfo.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 _This is  ${tlang().title}._
