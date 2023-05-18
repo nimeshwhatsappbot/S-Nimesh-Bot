@@ -12,7 +12,7 @@
 <p align="center">
 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/Bopki6IOujj6amH7AooggW" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp" src="https://chat.whatsapp.com/FfCg26RXt4oD3JK3rXCIdU" />
   </a>
  
   <a aria-label="Secktor is free to use" href="https://github.com/nimeshwhatsappbot/S-Nimesh-Bot" target="_blank">
