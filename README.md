@@ -43,7 +43,7 @@
 ---
 1. ***Get [SCAN](https://replit.com/@SuhailTechInfo/Secktor-Md?v=1) | [`SESSION-ID`](https://secktoruserbot.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [`Mongodb`](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [`Tutorial`](https://youtu.be/6rnftFl0fAI).***
-3.  ***Click [`FORK`](https://github.com/SamPandey001/Secktor-MD/fork)***
+3.  ***Click [`FORK`](https://github.com/nimeshwhatsappbot/S-Nimesh-Bot/fork)***
 4.  ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Secktor-bot)***
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 6.  ***Deploy on [`Deploy on replit`]( https://repl.it/github/SuhailTechInfo/Secktor-bot)***
@@ -65,3 +65,4 @@ mongodb+srv://Suhail:uhail@cluster0.rzhkoqf.mongodb.net/?retryWrites=true&w=majo
 ## License
 
 The Secktor is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Secktor-Md/blob/main/LICENCE). 
+whatsapp web-@94779821229
