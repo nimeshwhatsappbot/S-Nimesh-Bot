@@ -11,11 +11,11 @@
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/F0HqDfJTvz66zzApYHrHHo" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/Bopki6IOujj6amH7AooggW" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
-  <a aria-label="Secktor is free to use" href="https://github.com/SuhailTechInfo/Secktor-bot/blob/main/LICENCE" target="_blank">
+  <a aria-label="Secktor is free to use" href="https://github.com/nimeshwhatsappbot/S-Nimesh-Bot" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
 </p>
@@ -23,7 +23,7 @@
 
 ---
 
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+<p align="center"><img src="https://github.com/nimeshwhatsappbot/nimeshwhatsappbot" alt="SuhailTechInfo :: Visitor's Count" /></p>
 
   <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
   
@@ -31,7 +31,7 @@
    ***<p align="center"> Support us by subscribing our channel </p>***
  
    <p align="center">  
-  <a href="https://youtube.com/c/SuhailTechInfo">
+  <a href="https://youtube.com/@nimeshFF?feature=shares">
     <img alt="secktor docs" height="300" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
     <h1 align="center">Tap on above Image</h1>
   </a>
