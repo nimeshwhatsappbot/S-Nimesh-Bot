@@ -1,4 +1,4 @@
-  ## ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Secktor-bot)***
+  ## ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://https://github.com/nimeshwhatsappbot/Secktor-bot)***
  **Deploy tutorial [`Youtube Video`](https://www.YouTube.com/c/SuhailTechInfo).**
   
 
