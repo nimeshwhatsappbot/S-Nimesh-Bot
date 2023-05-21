@@ -2,17 +2,20 @@
  **Deploy tutorial [`Youtube Video`](https://www.YouTube.com/c/SuhailTechInfo).**
   
 
- 
  <p align="center">
-<a href="https://youtube.com/c/SuhailTechInfo"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Secktor-bot&description=Hello,%20I%20am%20Secktor%20MD, A%20Multi-device%20Whatsapp%20Bot Created By Suhail,%20You%20Can%20Deploy%20Me%20And%20%20enjoy%20Cool Futures&image=https://i.imgur.com/XAJae8F.jpeg&backgroundColor=%23ecf0f1&instagram=@SuhailTechInfo&github=SuhailTechInfo&pattern=ticTacToe&colorPattern=%23eaeaea&site=youtube.com/SuhailTechInfo"/></a>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHfvvCXrSEoRot6PxbRf4O3G3FqE3Z4Uw0XA&usqp=CAU " alt="animated" width="300" height="300" />
 </p>
+ <h2 align="center">• 💃 𝙎-NIMESH-𝘽𝙊𝙏 💃 •<br></h2>
+ 
+ 
+ 
   
   
    
 <p align="center">
 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/Bopki6IOujj6amH7AooggW" target="_blank">
-    <img alt="whatsapp" src="https://chat.whatsapp.com/FfCg26RXt4oD3JK3rXCIdU" />
+    <img alt="whatsapp" src="https://chat.whatsapp.com/Bopki6IOujj6amH7AooggW" />
   </a>
  
   <a aria-label="Secktor is free to use" href="https://github.com/nimeshwhatsappbot/S-Nimesh-Bot" target="_blank">
