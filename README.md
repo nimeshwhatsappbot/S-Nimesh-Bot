@@ -63,7 +63,7 @@ mongodb+srv://Suhail:uhail@cluster0.rzhkoqf.mongodb.net/?retryWrites=true&w=majo
 ---
 ### Thanks To
 
-- [Sam Pamday](https://github.com/Sampanda001) for Ideas
+- [Sam Pamday](https://github.com/nimeshwhatsappbot/nimeshwhatsappbot) for Ideas
 
 ## License
 
