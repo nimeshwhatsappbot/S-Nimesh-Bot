@@ -49,7 +49,7 @@
 3.  ***Click [`FORK`](https://github.com/nimeshwhatsappbot/S-Nimesh-Bot/fork)***
 4.  ***Deploy on [`Deploy on heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Secktor-bot)***
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
-6.  ***Deploy on [`Deploy on replit`](https://replit.com/@nimeshwhatsappb https://github.com/nimeshwhatsappbot/S-Nimesh-Bot)***
+6.  ***Deploy on [`Deploy on replit`](https://replit.com/@nimeshwhatsappb/S-Nimesh-Bot)***
 ##
 
 
